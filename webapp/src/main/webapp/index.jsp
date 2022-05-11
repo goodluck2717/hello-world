@@ -1,7 +1,9 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
+    <br>
     <h2>Rakesh codeing thish project</h2>
+    <br>
     <h3>helloo!!!!!!!! World </h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
